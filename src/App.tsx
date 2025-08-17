@@ -17,14 +17,13 @@ function App() {
         </a>
       </div>
       <h1>Updated homepage</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
+      {import.meta.env.VITE_SHOW_COUNTER === "Y" && (
+        <div className="card">
+          <button onClick={() => setCount((count) => count + 1)}>
+            count is {count}
+          </button>
+        </div>
+      )}
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
