@@ -4,11 +4,11 @@
 
 ## Let's connect!
 - [X](http://www.x.com/@housecor)
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/coryhouse/)
 
 ## My courses
 - [Pluralsight](https://www.pluralsight.com/authors/cory-house)
 - [Dometrain](https://dometrain.com/courses/?filters=typescript)
 
 ## Consulting / Workshops
-Ping me: cory@bitnative.com
+Ping me: reactjsconsulting.com or cory@bitnative.com
