@@ -11,4 +11,4 @@
 - [Dometrain](https://dometrain.com/courses/?filters=typescript)
 
 ## Consulting / Workshops
-Ping me: reactjsconsulting.com or cory@bitnative.com
+Ping me: [reactjsconsulting](http://reactjsconsulting.com) or cory@bitnative.com
